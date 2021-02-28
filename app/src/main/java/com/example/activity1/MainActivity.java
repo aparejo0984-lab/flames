@@ -121,11 +121,11 @@ public class MainActivity extends AppCompatActivity {
                 {
                     case 'F':TV.setText("FRIEND");
                         break;
-                    case 'L':TV.setText("LOVE");
+                    case 'L':TV.setText("LOVERS");
                         break;
                     case 'A':TV.setText("AFFECTION");
                         break;
-                    case 'M':TV.setText("MARRIAGE");
+                    case 'M':TV.setText("MARRIED");
                         break;
                     case 'E':TV.setText("ENEMY");
                         break;
